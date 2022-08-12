@@ -172,3 +172,5 @@ def kayak_scraping(flight1,flight2,start_date,end_date):
                     row[11]="NULL"
                 page.append(row)
     wb.save(filename=f'Final_results_{x}_{z}_of_scraping.xlsx')
+def quit():
+    driver.quit()
