@@ -11,5 +11,6 @@ def main():
     bot.set_date(date_start,date_end)
     bot.search()
     bot.kayak_scraping(city_from,city_to,date_start,date_end)
+    bot.quit()
 if __name__ == "__main__":
     main()
