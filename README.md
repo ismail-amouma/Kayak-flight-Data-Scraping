@@ -54,6 +54,3 @@ This script is intended for educational purposes and personal use only. Make sur
 
 ---
 
-Please note that the usage instructions are general, and you may need to modify them based on the specific structure of your project or any additional features you might add. Also, consider adding more details and explanations about each function in the script if needed.
-```
-
